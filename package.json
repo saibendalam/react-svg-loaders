@@ -1,6 +1,6 @@
 {
   "name": "svg-loader-react",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "private": false,
   "author": "Sai Krishna Bendalam",
   "license": "MIT",
@@ -8,7 +8,9 @@
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
-    "dist","README.md","LICENSE"
+    "dist",
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "rollup": "rollup -c"
