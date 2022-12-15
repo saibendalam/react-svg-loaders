@@ -52,4 +52,4 @@ You can pass the following options to the `Loader` function:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://svgur.com/i/oqv.svg) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/saibendalam/react-svg-loaders/blob/beta/LICENSE) file for details.
